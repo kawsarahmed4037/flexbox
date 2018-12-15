@@ -1,0 +1,47 @@
+*{margin:0;padding:0;}
+div{display:flex;
+
+
+
+}
+
+nav ul{
+		list-style:none;
+		display:flex;
+		justify-content:flex-end;
+		
+	
+}
+.ul{
+		list-style:none;
+		display:flex;
+		justify-content:flex-start;
+		
+	
+}
+
+nav ul li{
+		
+		margin:20px 0;
+		display:block;
+		
+}
+
+
+nav ul:hover .b{ color:red;
+transition:all .50s ease;
+
+}
+nav ul li .a:hover{ color:black;
+
+}
+nav ul a{
+		text-decoration:none;
+		color:#000;
+		padding:10px;
+			
+		font-family:segoe UI;
+}
+		
+		
+
